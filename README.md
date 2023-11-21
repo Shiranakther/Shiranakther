@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiranakther" alt="shiranakther" /></a> </p>
 
-- 💬 Ask me about **Android , MERN**
+- 💬 Ask me about **Android , MERN , JAVA**
 
 - 📫 How to reach me **akthermhs@gmail.com**
 
