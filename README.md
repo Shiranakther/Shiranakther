@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/Ry6p.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiranakther&label=Profile%20views&color=0e75b6&style=flat" alt="shiranakther" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiranakther" alt="shiranakther" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://giphy.com/gifs/motion-graphics-animated-gif-mograph-doXBzUFJRxpaUbuaqz" alt="shiranakther" /></a> </p>
 
 - 💬 Ask me about **Android , MERN , JAVA**
 
