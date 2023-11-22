@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shiran akther</h1>
 <h3 align="center">Sri Lankan full-stack developer, building seamless digital experiences</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/Ry6p.gif">
-<p align="left"> < img src="https://komarev.com/ghpvc/?username=shiranakther&label=Profile%20views&color=0e75b6&style=flat" alt="shiranakther" width="400" /> </p>
+ < img align="left" src="https://komarev.com/ghpvc/?username=shiranakther&label=Profile%20views&color=0e75b6&style=flat" alt="shiranakther" width="400" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://giphy.com/gifs/motion-graphics-animated-gif-mograph-doXBzUFJRxpaUbuaqz" alt="shiranakther" /></a> </p>
 
