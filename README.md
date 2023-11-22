@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/Ry6p.gif">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://giphy.com/gifs/motion-graphics-animated-gif-mograph-doXBzUFJRxpaUbuaqz" alt="shiranakther" /></a> </p>
+
 
 - 💬 Ask me about **Android , MERN , JAVA**
 
