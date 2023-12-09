@@ -11,7 +11,7 @@
 - 📫 How to reach me **akthermhs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
 <a href="https://linkedin.com/in/akther mhs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akther mhs" height="30" width="40" /></a>
 <a href="https://fb.com/shiran shinu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shiran shinu" height="30" width="40" /></a>
 </p>
