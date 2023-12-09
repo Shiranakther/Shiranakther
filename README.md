@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Shiran akther</h1>
 <h3 align="center">Sri Lankan full-stack developer, building seamless digital experiences</h3>
-<p align="right"><img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="android" width="300" height="300"/></p>
+<p align="center"><img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="android" width="300" height="300"/></p>
 
 
 
