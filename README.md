@@ -3,9 +3,9 @@
 
 # 💫 About Me:
 
-<h3 align="center">Sri Lankan full-stack developer, building seamless digital experiences</h3>
+<h3 >Sri Lankan full-stack developer, building seamless digital experiences</h3>
 
-🔭 I’m currently working on Real Estate Web Application<br>💬 Ask me about MERN,JAVA,PYTHON<br>
+🔭 I’m currently working on Real Estate Web Application-MERN <br>💬 Ask me about MERN,JAVA,PYTHON<br>
 
 
 
