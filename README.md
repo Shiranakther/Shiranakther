@@ -1,7 +1,10 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Shiran akther</h1>
-<h3 align="center">Sri Lankan full-stack developer, building seamless digital experiences</h3>
+
 # 💫 About Me:
+
+<h3 align="center">Sri Lankan full-stack developer, building seamless digital experiences</h3>
+
 🔭 I’m currently working on Real Estate Web Application<br>💬 Ask me about MERN,JAVA,PYTHON<br>
 
 
