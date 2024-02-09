@@ -1,5 +1,5 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-# 💫 About Me:
+# 💫 About Me :
 🔭 I’m currently working on - MERN - Real Estate web Application<br>🌱 I’m currently learning - REACT<br>💬 Ask me about - JAVA,JS,C,C++<br>⚡ Fun fact - I love eating ice cream in the rain!
 
 
