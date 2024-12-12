@@ -11,7 +11,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shiranakther&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shiranakther&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shiranakther&theme=blue-green)](https://git.io/streak-stats)
+[![](https://streak-stats.demolab.com?user=Shiranakther&theme=blue-green)](https://git.io/streak-stats)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shiranakther&limit=5&theme=dark&combine_all_yearly_contributions=true)
