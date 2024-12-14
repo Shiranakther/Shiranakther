@@ -17,8 +17,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=shiranakther&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://img.shields.io/badge/Visits-10125-blue)](https://your-custom-link.com)
-
+[![](https://visitcount.itsvg.in/api?id=shiranakther&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
